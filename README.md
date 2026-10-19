@@ -146,6 +146,14 @@ DSH App（Linux 容器）、手机「无线调试」、Shizuku 授权 —— 这
 全流程不碰物理屏、不需要 root：读屏靠虚拟屏截图 + OCR，发送靠系统输入法通道，
 操作入口是容器里的 `phone` / `vscreen` 命令（走 adb 的 shell 权限）。
 
+## 参与贡献
+
+欢迎提 Issue 与 PR：Bug、文档修正、机型适配、PC 后端补全都需要。
+动手前请先读 **[CONTRIBUTING.md](CONTRIBUTING.md)** 与 **[行为准则](CODE_OF_CONDUCT.md)**。
+
+⚠️ 提交日志 / 截图前请**脱敏**（真实昵称、群名、手机号、wxid 都不能出现）。
+涉及发送行为的改动，请先在「文件传输助手」验证，不要往真实群发测试消息。
+
 ## 许可
 
 MIT（见 [LICENSE](LICENSE)）。使用前请务必阅读 [免责声明](DISCLAIMER.md)——
