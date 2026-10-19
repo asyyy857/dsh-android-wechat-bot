@@ -1,0 +1,15 @@
+# ===== 运行时数据与隐私（绝不入库）=====
+payload/wechat-bot/data/
+*.log
+__pycache__/
+*.pyc
+
+# ===== 大体积二进制（改从 GitHub Releases 的完整 zip 获取，见 README）=====
+payload/ocrlibs.tar.gz
+payload/wechat-bot/app/defaults/表情包/
+payload/wechat-bot/app/models/*.onnx
+payload/vscreen-src/*.jar
+dsh安装包/
+
+# ===== 作者本机工具 =====
+tools/share.sh
